@@ -1,4 +1,4 @@
-// 
+
 public class ParkingLot {
     private ParkingSpot[][] spots;
 
